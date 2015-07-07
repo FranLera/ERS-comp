@@ -1,2 +1,2 @@
 # ERS-comp
-Environment Recognition Subsystem
+Environment Recognition Component
