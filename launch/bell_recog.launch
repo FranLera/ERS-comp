@@ -1,0 +1,4 @@
+<launch>
+	<node name="bell_recognition" pkg="bell_recognition" type="bell_recog.py" output="screen">
+	</node>
+</launch>
